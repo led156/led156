@@ -22,7 +22,7 @@
   
   ## Experience
   - Hanyang University ERICA, COMPUTER SCIENCE [2020.03 ~ ]
-      - GPA 4.2/4.5. [2021-spring](https://github.com/led156/2021-1). [2022-spring](https://github.com/led156/2022-1). [2022-fall](https://github.com/led156/2022-2).
+      - GPA 4.2/4.5. [2021-spring](https://github.com/led156/2021-1). [2022-spring](https://github.com/led156/2022-1). [2022-fall](https://github.com/led156/2022-2). [capstone design](https://github.com/Cafewhere)
   - University MakeUs Challenge 3rd, Java Spring Study [2022.09 ~ 2022.12]
   - [SKT FLYAI 2기](https://github.com/led156/SKT-FLYAI) [2022.12 ~ 2023.02]
   - Hanyang University ERICA. Data Science Lab, Undergraduate Research Student [2023.03 ~ ]
