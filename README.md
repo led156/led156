@@ -93,3 +93,6 @@
 
 | [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=led156)](https://solved.ac/led156) |[![코드트리실력진단-led156](https://banner.codetree.ai/v1/banner/led156)](https://www.codetree.ai/profiles/led156) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=led156&show_icons=true&theme=radical) |
 |---|---|---|
+
+|<a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/led156"/></a>|
+|---|
