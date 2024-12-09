@@ -4,7 +4,7 @@
 (Department of Computer Science at Hanyang University, Korea)
 
 **📚 Experience**
-- `2024.07 ~ 2025.06` SSAFY 12기
+- `2024.07 ~ 2024.12` SSAFY 12기
 - `2024.07 ~ 2024.08` SK AI Data Academy 1기
 - `2023.07 ~ 2023.08` LG Aimers 3기
 - `2023.07 ~ 2023.08` 삼성SDS 2023년도 하반기 알고리즘 특강
