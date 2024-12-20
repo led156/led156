@@ -17,6 +17,7 @@
 - `2023.08 ~ 2024.02` 현대모비스 데이터사이언스팀 인턴(Hyundai Mobis Company, Internship at Data Science Team)
 
 **📋 Certificates**
+- `2024.12` 빅데이터분석기사(Engineer Big Data Analysis)
 - `2024.06` SQL 개발자(SQLD, SQL Developer)
 - `2024.06` 데이터분석 준전문가(ADsP, Advanced Data Analytics Semi-Professional)
 - `2023.06` 정보처리기사(Engineer Information Processing)
